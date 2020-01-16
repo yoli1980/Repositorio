@@ -1,2 +1,2 @@
 El fichero7 contiene texto
-Metemos otra linea
+***un cambio***
